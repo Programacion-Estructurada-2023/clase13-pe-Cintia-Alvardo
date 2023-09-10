@@ -46,7 +46,7 @@ namespace MyApp// Note: actual namespace depends on the project name.
             Console.WriteLine("El número mas pequeño en la lista es > " + minimo);
 
             //VALORES POR ITERACIONES
-            //1 NUMERO VALDRI 24 MINIMO 24    //Comparamos minimo = 24
+            //1 NUMERO VALDRIA 24 MINIMO 24    //Comparamos minimo = 24
             //2 NUMERO = 10 MINIMO 24         //Comparamos minimo = 10    
             //3 NUMERO = 8 MINIMO 10          //Comparamos minimo = 8
             //4 NUMERO = 35 MINIMO 8          //Comparamos minimo = 8

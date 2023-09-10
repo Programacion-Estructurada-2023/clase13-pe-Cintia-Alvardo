@@ -39,7 +39,7 @@ namespace MyApp// Note: actual namespace depends on the project name.
             {
                 if (numero1 < minimo)
                 {
-                    minimo = numero; //Actualizar el valor minimo
+                    minimo = numero1; //Actualizar el valor minimo
                 }
             }
 
